@@ -12,4 +12,5 @@ print(air_quality.head())
 
 
 air_quality.plot.area(subplots=True)
+# plt.savefig("test.png")
 plt.show()
